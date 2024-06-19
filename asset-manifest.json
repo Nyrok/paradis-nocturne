@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/paradis-nocturne/static/css/main.f56a395e.css",
+    "main.js": "/paradis-nocturne/static/js/main.178f445e.js",
+    "static/media/p8.JPG": "/paradis-nocturne/static/media/p8.939db61195bbbabcc5a5.JPG",
+    "static/media/bg.JPG": "/paradis-nocturne/static/media/bg.b2a3d58e46a72a2a508f.JPG",
+    "static/media/p6.JPG": "/paradis-nocturne/static/media/p6.e2a1e36f190e584f6cbe.JPG",
+    "static/media/p12.JPG": "/paradis-nocturne/static/media/p12.0e67d74521109a194a59.JPG",
+    "static/media/p7.JPG": "/paradis-nocturne/static/media/p7.8c418f92516a6ca7adaa.JPG",
+    "static/media/p5.JPG": "/paradis-nocturne/static/media/p5.3e27aef07975c3d69508.JPG",
+    "static/media/p4.JPG": "/paradis-nocturne/static/media/p4.430569adae961fa8963b.JPG",
+    "static/media/p11.JPG": "/paradis-nocturne/static/media/p11.5737db546670c5db918a.JPG",
+    "static/media/logo-bgless.png": "/paradis-nocturne/static/media/logo-bgless.cf2a418e1f97bd62cf2c.png",
+    "static/media/p9.JPG": "/paradis-nocturne/static/media/p9.27bae94bcce441bd3488.JPG",
+    "static/media/p3.JPG": "/paradis-nocturne/static/media/p3.deab6e07f7cde1162c61.JPG",
+    "static/media/p10.JPG": "/paradis-nocturne/static/media/p10.c37c9268e2b45cdd74c1.JPG",
+    "static/media/Amsterdam.otf": "/paradis-nocturne/static/media/Amsterdam.84c3f66a87142e0c4650.otf",
+    "static/media/p2.JPG": "/paradis-nocturne/static/media/p2.cbd4a9e31622e6bfadfb.JPG",
+    "static/media/p1.JPG": "/paradis-nocturne/static/media/p1.161896ef5ff5f96a6dbe.JPG",
+    "static/media/Alta_regular.otf": "/paradis-nocturne/static/media/Alta_regular.8926f42baa106048a2b7.otf",
+    "index.html": "/paradis-nocturne/index.html",
+    "main.f56a395e.css.map": "/paradis-nocturne/static/css/main.f56a395e.css.map",
+    "main.178f445e.js.map": "/paradis-nocturne/static/js/main.178f445e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f56a395e.css",
+    "static/js/main.178f445e.js"
+  ]
+}
